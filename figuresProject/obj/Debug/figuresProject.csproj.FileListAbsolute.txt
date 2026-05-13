@@ -1,0 +1,36 @@
+C:\Users\fireg\source\repos\figuresProject\figuresProject\bin\Debug\figuresProject.exe.config
+C:\Users\fireg\source\repos\figuresProject\figuresProject\bin\Debug\figuresProject.exe
+C:\Users\fireg\source\repos\figuresProject\figuresProject\bin\Debug\figuresProject.pdb
+C:\Users\fireg\source\repos\figuresProject\figuresProject\obj\Debug\figuresProject.csproj.AssemblyReference.cache
+C:\Users\fireg\source\repos\figuresProject\figuresProject\obj\Debug\figuresProject.Form1.resources
+C:\Users\fireg\source\repos\figuresProject\figuresProject\obj\Debug\figuresProject.Properties.Resources.resources
+C:\Users\fireg\source\repos\figuresProject\figuresProject\obj\Debug\figuresProject.csproj.GenerateResource.cache
+C:\Users\fireg\source\repos\figuresProject\figuresProject\obj\Debug\figuresProject.csproj.CoreCompileInputs.cache
+C:\Users\fireg\source\repos\figuresProject\figuresProject\obj\Debug\figuresProject.exe
+C:\Users\fireg\source\repos\figuresProject\figuresProject\obj\Debug\figuresProject.pdb
+C:\Users\fireg\source\repos\figuresProject\figuresProject\obj\Debug\figuresProject.Form2.resources
+C:\Users\fireg\source\repos\figuresProject\figuresProject\obj\Debug\figuresProject.Form3.resources
+C:\Users\Light Flight PC\Desktop\work\Lyceum\figuresProject\figuresProject\obj\Debug\figuresProject.csproj.AssemblyReference.cache
+C:\Users\Light Flight PC\Desktop\work\Lyceum\figuresProject\figuresProject\obj\Debug\figuresProject.exe
+C:\Users\Light Flight PC\Desktop\work\Lyceum\figuresProject\figuresProject\obj\Debug\figuresProject.pdb
+C:\Users\Light Flight PC\Desktop\work\Lyceum\figuresProject\figuresProject\bin\Debug\figuresProject.exe.config
+C:\Users\Light Flight PC\Desktop\work\Lyceum\figuresProject\figuresProject\bin\Debug\figuresProject.exe
+C:\Users\Light Flight PC\Desktop\work\Lyceum\figuresProject\figuresProject\bin\Debug\figuresProject.pdb
+C:\Users\Light Flight PC\Desktop\work\Lyceum\figuresProject\figuresProject\obj\Debug\figuresProject.Form1.resources
+C:\Users\Light Flight PC\Desktop\work\Lyceum\figuresProject\figuresProject\obj\Debug\figuresProject.Form2.resources
+C:\Users\Light Flight PC\Desktop\work\Lyceum\figuresProject\figuresProject\obj\Debug\figuresProject.Form3.resources
+C:\Users\Light Flight PC\Desktop\work\Lyceum\figuresProject\figuresProject\obj\Debug\figuresProject.Properties.Resources.resources
+C:\Users\Light Flight PC\Desktop\work\Lyceum\figuresProject\figuresProject\obj\Debug\figuresProject.csproj.GenerateResource.cache
+C:\Users\Light Flight PC\Desktop\work\Lyceum\figuresProject\figuresProject\obj\Debug\figuresProject.csproj.CoreCompileInputs.cache
+C:\Users\Light Flight PC\Desktop\Polygons\Polygons\figuresProject\bin\Debug\figuresProject.exe.config
+C:\Users\Light Flight PC\Desktop\Polygons\Polygons\figuresProject\bin\Debug\figuresProject.exe
+C:\Users\Light Flight PC\Desktop\Polygons\Polygons\figuresProject\bin\Debug\figuresProject.pdb
+C:\Users\Light Flight PC\Desktop\Polygons\Polygons\figuresProject\obj\Debug\figuresProject.csproj.AssemblyReference.cache
+C:\Users\Light Flight PC\Desktop\Polygons\Polygons\figuresProject\obj\Debug\figuresProject.Form1.resources
+C:\Users\Light Flight PC\Desktop\Polygons\Polygons\figuresProject\obj\Debug\figuresProject.Form2.resources
+C:\Users\Light Flight PC\Desktop\Polygons\Polygons\figuresProject\obj\Debug\figuresProject.Form3.resources
+C:\Users\Light Flight PC\Desktop\Polygons\Polygons\figuresProject\obj\Debug\figuresProject.Properties.Resources.resources
+C:\Users\Light Flight PC\Desktop\Polygons\Polygons\figuresProject\obj\Debug\figuresProject.csproj.GenerateResource.cache
+C:\Users\Light Flight PC\Desktop\Polygons\Polygons\figuresProject\obj\Debug\figuresProject.csproj.CoreCompileInputs.cache
+C:\Users\Light Flight PC\Desktop\Polygons\Polygons\figuresProject\obj\Debug\figuresProject.exe
+C:\Users\Light Flight PC\Desktop\Polygons\Polygons\figuresProject\obj\Debug\figuresProject.pdb
