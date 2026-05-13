@@ -1,0 +1,47 @@
+# Build results
+[Bb]in/
+[Oo]bj/
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+
+# Visual Studio user/state files
+.vs/
+*.user
+*.rsuser
+*.suo
+*.userosscache
+*.sln.docstates
+*.VC.db
+*.VC.VC.opendb
+
+# Compiled binaries and symbols
+*.exe
+*.dll
+*.pdb
+*.cache
+*.ilk
+*.iobj
+*.ipdb
+
+# NuGet
+*.nupkg
+packages/
+*.nuget.props
+*.nuget.targets
+project.lock.json
+project.assets.json
+
+# ReSharper / Rider
+_ReSharper*/
+*.DotSettings.user
+.idea/
+
+# OS/editor noise
+.DS_Store
+Thumbs.db
+*.swp
+*.tmp
